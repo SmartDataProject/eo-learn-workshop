@@ -3,3 +3,11 @@
 __pycache__/
 eopatch_data/
 timelapse/
+eoexecution-report-*
+*.tar
+eopatches_sampled_small/
+eopatches_small/
+land_cover_subset_small/
+*.pkl
+predicted_tiff/
+selected_3x3_bboxes_slovenia_*
