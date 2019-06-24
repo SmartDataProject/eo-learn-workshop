@@ -2,13 +2,13 @@
 
 This is a GitHub page for `eo-learn` designated workshops. The page contains some data sets and Jupyter notebooks for the workshop.
 
-The `example_data` directory contains some extra code and data, which are necessary in order to run the examples, but not vital to understanding.
+The `example_data` directory contains data, which are needed to run the examples.
 
-In the `notebooks` directory, you can find the folowing Jupyter notebooks:
+In the `notebooks` directory, you can find the following Jupyter notebooks:
 - `notebooks/timelapse_notebook.ipynb` - A Jupyter notebook for getting to know EOTasks and EOWorkflows in a simple usecase of making a timelapse of a solar farm in Morocco.
 
-- `notebooks/water_level_extraction_notebook.ipynb` - A Jupyter notebook that also uses some helper functions from the `utilities.py` file in order to detect the water surface level over a period of time
+- `notebooks/water_level_extraction_notebook.ipynb` - A Jupyter notebook that also uses some helper functions from the `utilities.py` file in order to detect the water surface level of a water body over a period of time. This notebook also uses some functions from the `utilities.py` file.
 
-- `notebooks/land_cover_notebook.ipynb` - A notebook that shows how to do land cover classification on a small part of Slovenia from start to finish
+- `notebooks/land_cover_notebook.ipynb` - A notebook that shows how to do land cover classification on a small part of Slovenia from start to finish.
 
 Good luck!
