@@ -1,12 +1,13 @@
 .idea/
 .ipynb_checkpoints/
 __pycache__/
+outputs/
 eopatch_data/
 timelapse/
 eoexecution-report-*
 *.tar
 eopatches_sampled_small/
 eopatches_small/
-*.pkl
 predicted_tiff/
 selected_3x3_bboxes_slovenia_*
+
